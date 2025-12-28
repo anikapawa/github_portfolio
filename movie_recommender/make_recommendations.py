@@ -1,4 +1,4 @@
-from recommending import MovieRecommender
+from movie_recommender.recommending import MovieRecommender
 import sys
 import pathlib
 import json
