@@ -1,6 +1,5 @@
 # Movie Recommender
-A Python-based movie recommendation system using user-based collaborative filtering.  
-The app generates personalized movie suggestions based on users' genre preferences and past ratings.
+A Python-based movie recommendation system using user-based collaborative filtering. The app generates personalized movie suggestions based on users' genre preferences and past ratings.
 
 # Live Demo
 Link: 

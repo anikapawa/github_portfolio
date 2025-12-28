@@ -1,6 +1,5 @@
 # Digital Planner
-A Python-based digital planner with a graphical user interface (GUI) built using Tkinter.  
-The app helps users stay organized by tracking tasks, courses, daily notes, and journal entries, all with persistent storage so your data is saved between sessions.
+A Python-based digital planner with a graphical user interface (GUI) built using Tkinter. The app helps users stay organized by tracking tasks, courses, daily notes, and journal entries, all with persistent storage so your data is saved between sessions.
 
 # Features
 - **To-Do List:** add, view, and delete tasks; tasks are saved automatically
