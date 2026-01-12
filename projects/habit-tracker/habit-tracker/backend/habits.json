@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Swimming",
+    "streak": 1,
+    "lastCompletedDate": "2026-01-08"
+  },
+  {
+    "name": "Running",
+    "streak": 0,
+    "lastCompletedDate": null
+  },
+  {
+    "name": "Walking",
+    "streak": 1,
+    "lastCompletedDate": "2026-01-08"
+  }
+]
