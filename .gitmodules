@@ -1,0 +1,3 @@
+[submodule "projects/habit-tracker"]
+	path = projects/habit-tracker
+	url = https://github.com/anikapawa/habit-tracker.git
